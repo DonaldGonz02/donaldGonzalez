@@ -9,7 +9,7 @@ Para instalar y configurar el proyecto, sigue los siguientes pasos:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/OscarCastellanos01/proyecto-curso-desarrollo-web
+   git clone https://github.com/DonaldGonz02/donaldGonzalez
 
 2. **Navega al directorio del proyecto:**
    ```bash
